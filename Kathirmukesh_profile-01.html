@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kathirmukesh Murugan | Email Marketing Specialist</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f8f9fa; color: #333; }
+    header { background: #0073e6; color: white; padding: 40px 20px; text-align: center; }
+    header h1 { margin: 0; font-size: 32px; }
+    header p { margin: 5px 0; }
+    section { padding: 40px 20px; max-width: 900px; margin: auto; }
+    h2 { color: #0073e6; border-bottom: 2px solid #0073e6; padding-bottom: 5px; }
+    ul { line-height: 1.6; }
+    .contact a { color: #0073e6; text-decoration: none; }
+    footer { text-align: center; padding: 20px; background: #eee; margin-top: 40px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Kathirmukesh Murugan</h1>
+    <p>Email Marketing Specialist | Adobe Marketo Certified</p>
+    <p class="contact">📧 <a href="mailto:kathirmukesh4u@gmail.com">kathirmukesh4u@gmail.com</a> | 📱 +91 6382268147</p>
+  </header>
+
+  <section>
+    <h2>Professional Summary</h2>
+    <p>Dynamic Email Marketing Specialist with 4+ years of experience in Adobe Marketo Engage, Message Gear, and campaign optimization. Skilled in HTML/CSS and data-driven strategies, achieving a 40% accuracy improvement and 60% increase in user engagement through testing, personalization, and automation.</p>
+  </section>
+
+  <section>
+    <h2>Experience</h2>
+    <h3>Marrina Decisions (Sep 2021 – Present)</h3>
+    <p><strong>Role:</strong> Email Marketing Specialist - Developer</p>
+    <ul>
+      <li>Planned, developed, and optimized automated email campaigns using Adobe Marketo & Message Gear.</li>
+      <li>Executed A/B testing, personalization, and triggered campaigns to drive customer engagement.</li>
+      <li>Improved rendering accuracy across devices with HTML/CSS optimization and Litmus testing.</li>
+      <li>Delivered performance reports and optimized campaigns based on KPIs & analytics.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <h3>Clients: Indeed, Google Maps, Google Education</h3>
+    <ul>
+      <li>Developed responsive email templates and nurture campaigns.</li>
+      <li>Implemented dynamic content and lead management workflows.</li>
+      <li>Enhanced deliverability and ensured compliance with best practices.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>Email Marketing Automation (Marketo, Message Gear)</li>
+      <li>Email Design & Development (HTML, CSS)</li>
+      <li>Email QA & Testing (Litmus, Email on Acid)</li>
+      <li>Lead Management & Campaign Optimization</li>
+      <li>Tools: Figma, Wrike, Jira, MS Office</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <p>Bachelor of Technology, Information Technology (2014 – 2018)</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Kathirmukesh Murugan | Portfolio</p>
+  </footer>
+</body>
+</html>

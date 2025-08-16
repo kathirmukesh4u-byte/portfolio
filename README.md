@@ -20,7 +20,7 @@
   <header>
     <h1>Kathirmukesh Murugan</h1>
     <p>Email Marketing Specialist | Adobe Marketo Certified</p>
-    <p class="contact">📧 <a href="mailto:kathirmukesh4u@gmail.com">kathirmukesh4u@gmail.com</a> | 📱 +91 6382268147</p>
+    <p class="contact">📧 <a href="mailto:kathirmukesh4u@gmail.com" span style="color: #ffffff" >kathirmukesh4u@gmail.com</span></a> | 📱 +91 6382268147</p>
   </header>
 
   <section>

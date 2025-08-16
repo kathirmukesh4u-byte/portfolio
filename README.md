@@ -151,7 +151,31 @@
             
             <div class="project">
                 <h3>Project #1</h3>
-                <p><strong>Project Name:</strong> Indeed, Google Maps, Google Education</p>
+                <p><strong>Project Name:</strong> Google Maps, Google Education, Google cloud</p>
+                <p><strong>Designation:</strong> Email Marketing Specialist - Developer</p>
+                
+                <h4>Project Description:</h4>
+                <p>Creating Emails and various types of campaigns build.</p>
+                
+                <p><strong>Pipeline:</strong> Adobe Marketo Engage</p>
+                
+                <h4>Responsibilities:</h4>
+                <ul>
+                    <li>Support or manage every area of email marketing, such as planning, strategy, requirement setup, email design, email development, email quality assurance, all type of email campaigns, reports, audits, and optimization campaigns through greater customer engagement.</li>
+                    <li>Outstanding Experience in Deliverability Issue Fixing, Lead Management, List, Smart List, Trigger Campaigns, Smart Campaigns, Segmentation, Dynamic Content, Personalization, Velocity or Email Script Creation, A/B Testing, Newsletter Campaigns, Trigger Campaigns, Drip Campaigns, Nurture Campaigns, Email Template.</li>
+                    <li>Enhanced HTML and CSS and resolved other performance issues to ensure accurate rendering across browsers on desktop, mobile, and email platforms.</li>
+                    <li>Checks the Rendering QA and Accessibility checks on Email On Acid to provide the Good Quality.</li>
+                </ul>
+                
+                <h4>Accomplishments:</h4>
+                <ul>
+                    <li>Successfully completed various types of campaigns.</li>
+                </ul>
+            </div>
+
+            <div class="project">
+                <h3>Project #2</h3>
+                <p><strong>Project Name:</strong> Indeed</p>
                 <p><strong>Designation:</strong> Email Marketing Specialist - Developer</p>
                 
                 <h4>Project Description:</h4>
@@ -165,6 +189,7 @@
                     <li>Outstanding Experience in Deliverability Issue Fixing, Lead Management, List, Smart List, Trigger Campaigns, Smart Campaigns, Segmentation, Dynamic Content, Personalization, Velocity or Email Script Creation, A/B Testing, Newsletter Campaigns, Trigger Campaigns, Drip Campaigns, Nurture Campaigns, Webinars, Snippets, Email Template, Landing Page Template, and Forms Creation.</li>
                     <li>Enhanced HTML and CSS and resolved other performance issues to ensure accurate rendering across browsers on desktop, mobile, and email platforms.</li>
                     <li>Pull the report from any Marketing automation tool and monitor metrics and KPIs to measure and optimize campaigns.</li>
+                    <li>Using Litmus for reducing errors and providing good quality design.</li>
                 </ul>
                 
                 <h4>Accomplishments:</h4>

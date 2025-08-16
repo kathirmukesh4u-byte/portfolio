@@ -12,7 +12,7 @@
     section { padding: 40px 20px; max-width: 900px; margin: auto; }
     h2 { color: #0073e6; border-bottom: 2px solid #0073e6; padding-bottom: 5px; }
     ul { line-height: 1.6; }
-    .contact a { color: white; text-decoration: none; }
+    .contact a { color: #ffffff; text-decoration: none; }
     footer { text-align: center; padding: 20px; background: #eee; margin-top: 40px; }
   </style>
 </head>

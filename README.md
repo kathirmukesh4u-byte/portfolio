@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Kathirmukesh Murugan | Email Marketing Specialist</title>
   <style>
-    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #2557a7; color: #333; }
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f8f9fa; color: #333; }
     header { background: #0073e6; color: white; padding: 40px 20px; text-align: center; }
     header h1 { margin: 0; font-size: 32px; }
     header p { margin: 5px 0; }
